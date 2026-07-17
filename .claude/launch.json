@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "exception-clerk-learning",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\LOPEZHEJ\\OneDrive - Luxottica Group S.p.A\\Desktop\\Aprendizaje Exception Clerks\\exception-clerk-learning",
+      "autoPort": true,
+      "port": 5173
+    }
+  ]
+}

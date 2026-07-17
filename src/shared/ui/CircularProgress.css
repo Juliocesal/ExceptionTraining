@@ -1,0 +1,6 @@
+.circular-progress-label {
+  font-size: 9px;
+  font-weight: 600;
+  fill: var(--text-secondary);
+  font-family: var(--font-sans);
+}
